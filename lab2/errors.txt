@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/Desktop/practic-2/./PracticTask2.py", line 36, in <module>
+    greet_interactive()
+  File "/home/ubuntu/Desktop/practic-2/./PracticTask2.py", line 23, in greet_interactive
+    if not name[0].isupper():
+           ~~~~^^^
+IndexError: string index out of range
