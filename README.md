@@ -8,7 +8,6 @@
 1. Файл PracticTask2.py делается исполняемым при помощи команды chnod +x
 2. Для запуска программы в первом режиме используем команду  ./PracticTask2.py <names.txt 2>errors.txt
 3. На выход получаем:
-
 Nice to see you Masha!
 Nice to see you Nadya!
 Nice to see you Nastya!
