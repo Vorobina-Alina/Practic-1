@@ -8,18 +8,19 @@
 1. Файл PracticTask2.py делается исполняемым при помощи команды chnod +x
 2. Для запуска программы в первом режиме используем команду  ./PracticTask2.py <names.txt 2>errors.txt
 3. На выход получаем:
+
 Nice to see you Masha!
 Nice to see you Nadya!
 Nice to see you Nastya!
 Nice to see you Dasha!
-4. Для запуска программы во втором режиме используем команду ./PraticTask2.py
-5. На выход получаем:
+5. Для запуска программы во втором режиме используем команду ./PraticTask2.py
+6. На выход получаем:
 Hey, what's your name?
-6. Вводим: Alina
-7. Вывод:
+7. Вводим: Alina
+8. Вывод:
 Nice to see you Alina!
 Hey, what's your name?
-8. Нажимаем Ctrl+c
-9. Получаем:
+9. Нажимаем Ctrl+c
+10. Получаем:
 Hey, what's your name? ^C
 Goodbye!
